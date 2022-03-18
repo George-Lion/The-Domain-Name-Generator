@@ -1,3 +1,26 @@
+## The domain name generator
+
+When creating a website, one of the fundamental parts is the domain, this will be the address, it is the key that unites your content with the user. The Domain Name Generator is designed with the aim of offering various alternatives to be chosen by the user.
+
+The languages ​​used are HTML5 that will form the structure of our website, a css file that is responsible for the visual part and a JavaScript file where all the parameters that generate the process of the requested action are found.
+
+The main part of the code is found in the js file, which is what shapes the entire process of selecting the domain name, within a function we have variables that have parts of sentences as their value that will make up the final domain name, these are looped through so that in each repetitive iteration they select one of the words that concatenate the final domain name.
+
+Concepts applied in architecture:
+
+* Use of Functions.
+* Array implementation.
+* Loops.
+* Basic HTML structure.
+ 
+Recommended websites for theme icons, images and tools:
+
+[-Google Fonts Pages](https://fonts.google.com/).
+
+[-Fontawesome Pages](https://fontawesome.com/).
+
+[-Pexel Pages](https://www.pexels.com/es-es/).
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:

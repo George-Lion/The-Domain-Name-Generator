@@ -7,8 +7,7 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   //write your code here
   document.getElementById("titulo").innerHTML = dominio();
-
-  console.log("Hello Rigo from the console!");
+  console.log(dominio());
 };
 
 const dominio = () => {
